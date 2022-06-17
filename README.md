@@ -1,5 +1,1 @@
-# testing
-
-I am Usman
-
-I am working on this project
+Those all are nonnecessary code
